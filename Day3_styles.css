@@ -1,0 +1,30 @@
+* {
+    font-family: Helvetica;
+    color: #7a9fcd;
+}
+
+h1, h3 {
+    background-color: #7a9fcd;
+    color: rgb(249, 249, 249);   
+    padding: 25px;
+    margin: 20px;
+}
+
+h3{
+    color: #ffffff;    
+}
+
+.container {
+    background-color: rgb(243, 243, 222);
+    padding: 20px;
+    margin: 20px;
+}
+
+.btn {
+   background-color:#7a9fcd; 
+   color: white;
+   width: fit-content;
+   padding: 10px;
+   border-radius: 25px;
+}
+

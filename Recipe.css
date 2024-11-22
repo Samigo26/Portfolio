@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica;
+    color: #7a9fcd;
+    margin: 15px;
+}
+
+h2{
+    color: plum;
+}
+
+.container {
+    background-color: rgb(243, 243, 222);
+    padding: 20px;
+    margin: 20px;
+}
+
+

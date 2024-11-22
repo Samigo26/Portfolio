@@ -1,0 +1,18 @@
+img{
+    width: 50%;
+}
+
+h1{
+    font-family: Helvetica;
+    color: green;
+}
+
+h2{
+    font-family: Courier;
+    color: pink;
+}
+
+h3{
+    color:red;
+    font-family: gill sans;
+}
